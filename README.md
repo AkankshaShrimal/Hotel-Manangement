@@ -29,15 +29,15 @@ The following features are included:-
                                            Fig 4. Booking  
                                            
    <div>
-   <div align="center"><img src="images/booking_1.png" height='450px'/></div>   
+   <div align="center"><img src="images/booking_1.png" height='750px'/></div>   
     <div align="center"><img src="images/booking_2.png" height='450px'/></div>   
     </div>   
 
                                            Fig 5. Payment 
-   <div align="center"><img src="images/payment.png" height='450px'/></div>   
+   <div align="center"><img src="images/payment.png" height='350px'/></div>   
 
                                           Fig 6. Cancellation  
-   <div align="center"><img src="images/cancellation.png" height='450px'/></div>   
+   <div align="center"><img src="images/cancellation.png" height='350px'/></div>   
 
    
 
