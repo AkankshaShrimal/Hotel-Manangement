@@ -1,0 +1,11 @@
+hotel_id,hotel_name,location,Area,Category(stars),Covid Hygiene Rating,Covid-19 zones,Maximum Offer,price_range_start,price_range_end,laundry,additional sanitizers,masks,face shield
+1,Sunrise,Jaipur,Baisgodam,3,3,Red,20,2000,8000,1,2,3,4
+2,Orchid,Jaipur,Baisgodam,2,3,Red,40,5000,9000,1,2,3,4
+3,Henna,Jaipur,Malwiya Nagar,2,3,Red,60,5000,15000,1,2,3,4
+4,Rajchidiya,Jaipur,Malwiya Nagar,3,3,Green,25,1000,11000,1,2,3,4
+5,Ramada,Jaipur,Malwiya Nagar,4,4,Green,40,800,18000,1,2,3,4
+6,Hilton,Delhi,Gandhi Nagar,4,4,Green,45,1500,15000,1,2,3,4
+7,Radission,Delhi,Gandhi Nagar,4,4,Green,50,5000,9000,1,2,3,4
+8,Holiday Inn,Delhi,Rohini,5,1,Orange,10,2000,7000,1,2,3,4
+9,Jai Mahal Palace,Delhi,Gandhi Nagar,5,2,Orange,50,1400,5000,1,2,3,4
+10,Clarks World,Delhi,Rohini,2,4,Orange,35,1000,2000,1,2,3,4
