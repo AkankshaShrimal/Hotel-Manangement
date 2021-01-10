@@ -18,10 +18,10 @@ The following features are included:-
 
 
                                         Fig 1. Main Menu 
-   <div align="center"><img src="images/menu.png" height='450px'/></div>                                         
+   <div align="center"><img src="images/menu.png" height='250px'/></div>                                         
 
                                         Fig 2. Login 
-   <div align="center"><img src="images/login_.png" height='450px'/></div>   
+   <div align="center"><img src="images/login_.png" height='250px'/></div>   
 
                                            Fig 3. Signup  
    <div align="center"><img src="images/signup.png" height='450px'/></div>   
